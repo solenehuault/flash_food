@@ -2,7 +2,7 @@
 
 body {
 	background-image: "img/bg.png" cover fixed;
-	color: #B24322;
+	color: #B27F78;
 	background-color: #DEFFEF;
 }
 
@@ -78,7 +78,7 @@ nav {
 
 #main {
 	float: left;
-	border: 2px solid #FF8864;
+	border: 2px solid #FFE2DE;
 	margin-left: 20px;
 	border-radius: 20px 20px;
 	padding: 10px 10px 10px 10px;
@@ -91,7 +91,7 @@ nav {
 	float: right;
 	height: 400px;
 	width: 30%;
-	border: 2px #FF8864 solid;
+	border: 2px #FFE2DE solid;
 	margin: 0 10px 10px 0;
 	border-radius: 20px 20px;
 	background-color: #F7FFFB;
