@@ -1,0 +1,102 @@
+/* primaire: FF744A nuance: B24322 nuance: FF8864 secondaire: 10B286 nuance: 4AFFCE*/
+
+body {
+	background-image: "img/bg.png" cover fixed;
+	color: #B24322;
+	background-color: #DEFFEF;
+}
+
+header {
+	height: 300px;
+	width: 100%;
+}
+
+img {
+	height: 35px;
+	width: 35px;
+	border-radius: 50%;
+	
+}
+
+#logo {
+	height: 300px;
+	width: 300px;
+	border-radius: 0%;
+	float: left;
+}
+
+h1 {
+	float: left;
+	color: #D2D2D2;
+	font-size: 155px;
+}
+
+header p
+{
+	float: left;
+	margin-bottom: 10px;
+	font-size: 55px;
+	font-style: oblique;
+}
+
+em {
+	color: #F9E600;
+}
+
+ul li ul li {
+	/*text-align: center;*/
+	margin-left: 10px;
+}
+.panier {
+	position: fixed;
+	top: 0;
+	right: 100px;
+	height: 50px;
+	width: 100px;
+	color: #262626;
+}
+
+#socialnet {
+	height: 35px;
+	width: 100%;
+	background-color: #31B0D5;
+	margin-top: 0;
+}
+
+.images {
+	margin: 0 auto;
+	text-align: center;
+}
+
+nav {
+	color: #262626;
+	text-align: right;
+	margin-left: 450px;
+	margin-right: 450px;
+	padding-left: 20px;
+}
+
+#main {
+	float: left;
+	border: 2px solid #FF8864;
+	margin-left: 20px;
+	border-radius: 20px 20px;
+	padding: 10px 10px 10px 10px;
+	width: 65%;
+	margin-bottom: 20px;
+	background-color: #F7FFFB;
+}
+
+#side {
+	float: right;
+	height: 400px;
+	width: 30%;
+	border: 2px #FF8864 solid;
+	margin: 0 10px 10px 0;
+	border-radius: 20px 20px;
+	background-color: #F7FFFB;
+}
+
+#side p, h3 {
+	padding: 10px;
+}
